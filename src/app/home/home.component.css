@@ -5,9 +5,7 @@
     object-position: center;
     object-fit: cover;
 }
-.home-content{
-    padding-top: 30px;
-}
+
 .homecontent
 {
         position: absolute;
@@ -19,6 +17,7 @@
 {
     color: #ffffff;
     font-size: 50px;
+    margin-top: 50px;
 }
 .homecontent a
 {
