@@ -5,7 +5,9 @@
     object-position: center;
     object-fit: cover;
 }
-
+.home-content{
+    padding-top: 30px;
+}
 .homecontent
 {
         position: absolute;
